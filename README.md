@@ -6,6 +6,9 @@
   <li>Game Mechanism Planning - breaking down game into many different objects</li>
 </ul>
 
+> [!TIP]
+> There's no need to code everything from scratch. In fact, many of these codes were derived and modified from the previous games that I created. Key is to understand how to break down the game into smaller parts and building different classes and functions for them. The flow and game mechanism are the largest variations and building a game is more about how you integrate the different components (which can be extracted from other game components) together.
+
 <h2>Video of Turtle Crossing Game</h2>
 
 <div width = 150px>
